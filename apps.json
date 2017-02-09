@@ -1,1 +1,11 @@
-
+{
+    "apps": [
+        {
+            "com.aurora.settings": {
+                "name": "Settings",
+                "data": "",
+                "icon": ""
+            }
+        }
+    ]
+}
