@@ -5,6 +5,11 @@
                 "name": "Settings",
                 "data": "",
                 "icon": ""
+            },
+            "com.aurora.search": {
+                "name": "Settings",
+                "data": "",
+                "icon": ""
             }
         }
     ]
